@@ -13,15 +13,13 @@ using namespace std;
 int main()
 {
     const double pi = 3.14;
-    double radius = 0;
-    double piR;
+    double radius;
     double area;
 
     cout << "input the radius in meters = ";
     cin >> radius;
 
-     piR = pi * radius;
-     area = pow(piR,2);
+    area = pi * pow(radius,2);
 
     cout << "the circumference of a circle with a radius of "<< radius << "m is "<< area << "m";
     return 0;
