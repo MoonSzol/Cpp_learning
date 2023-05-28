@@ -1,5 +1,5 @@
 /*
- * programming w/ Mosh - ex: 1
+ * Programming w/ Mosh - ex: 1
  * Jesus Avila
  * 5/26/2023
  */
