@@ -2,6 +2,10 @@
  * Programming w/ Mosh - ex: 4
  * Jesus M Avila V
  * 5/28/23
+ * challenge: write code to get sales tax, county tax, and total tax to be paid 
+ * total sales = $95,000
+ * state tax = 4%
+ * county tax = 2%
  */
 
 #include <iostream>
